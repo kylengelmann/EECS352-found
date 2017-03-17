@@ -2,6 +2,10 @@
 
 ### Dependancies ###
 numpy
+
 scipy
+
 librosa
+
 pyfluidsynth
+
