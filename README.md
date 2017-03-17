@@ -7,5 +7,8 @@ scipy
 
 librosa
 
-pyfluidsynth
+pyfluidsynth: https://github.com/nwhitehead/pyfluidsynth
 
+To Install pyfluidsynth:
+
+Download the code from the repository and run setup.py
