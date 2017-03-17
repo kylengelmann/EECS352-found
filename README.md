@@ -1,4 +1,4 @@
-# EECS352-found
+# EECS352-foünd
 
 ### Dependancies ###
 numpy
